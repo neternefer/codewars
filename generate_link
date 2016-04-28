@@ -1,0 +1,7 @@
+def generate_link(user):
+    """
+    Your task is to create userlinks for the url, you will be given a username and must return a valid link.
+    """
+    user = user.replace(" ", "%20")
+    
+    return 'http://www.codewars.com/users/' + user
