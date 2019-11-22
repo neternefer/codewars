@@ -1,6 +1,6 @@
 def fix_the_meerkat(arr):
     """(arr) -> arr
-    Reverse array.
+    Reverse given array.
     >>>fix_the_meerkat(["tail", "body", "head"])
     ["head", "body", "tail"]
     """
