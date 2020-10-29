@@ -3,4 +3,4 @@ Codewars katas
 - Python
 - JavaScript
 
-Current Rank: 5 kyu
+Current Rank: 4 kyu
